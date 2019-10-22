@@ -1,1 +1,1 @@
-module.exports = {telegraf_token:process.env.TELEGRAM_BOT_TOKEN};
+module.exports = {659414060:AAEWNZpJCVULIOoAdEP7oz8ZGoKJFfmW670};
