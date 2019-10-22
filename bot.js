@@ -297,7 +297,7 @@ bot.action('confirm',(ctx) => {
     msg += "\n";
     msg += "Please use this referal link";
     msg += "\n";
-    msg += "https://t.me/eoscafebot?start=";
+    msg += "https://t.me/OnionShopTestBot?start=";
     msg += ctx.session.bts;
     ctx.reply(msg);
 
