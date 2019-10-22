@@ -12,7 +12,7 @@ var api = require('etherscan-api').init(process.env.ETH_KEY);
 var mongo = require('mongodb');
 
 var MongoClient = require('mongodb').MongoClient;
-var url = process.env.MONGODB_URI;
+var url = "mongodb://heroku_kf7m1gcx:joo1pn43j84nd35bjsp5qf0mqb@ds137488.mlab.com:37488/heroku_kf7m1gcx";
 
 /*
 MongoClient.connect(url, function(err, db) {
